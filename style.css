@@ -243,6 +243,22 @@ p
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
+  
+}
+.workBx .brand img
+{
+  text-decoration: none;
+  color: rgba(255,255,255,0.4);
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+  min-height: 300px;
+  width: 250px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 .workBx .brand:hover a
 {
